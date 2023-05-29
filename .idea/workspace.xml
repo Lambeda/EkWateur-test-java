@@ -4,40 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5e45cc9-ef01-4180-83cc-e2d2e9c27c8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ekwateur - calculFacture.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/FactureBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/client/Civilite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/client/ClientPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/client/ClientPro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/client/IdEkWateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/client/Identifiant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/client/Siret.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/client/TypeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/energie/TypeEnergie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/facture/Facture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/facture/FactureDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/format/facture/Tarif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/ClientServiceDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/ConsommationServiceDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/ParseurDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/TarifServiceDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/DataNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/InvalidIdentifiantException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ClientDB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ClientPartDB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ClientProDB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ConsommationDB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TarifDB" afterDir="false" />
+    <list default="true" id="f5e45cc9-ef01-4180-83cc-e2d2e9c27c8a" name="Changes" comment="V1 - tests nominaux ok">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +63,19 @@
       <option name="presentableId" value="Default" />
       <updated>1684417224447</updated>
     </task>
+    <task id="LOCAL-00001" summary="V1 - tests nominaux ok">
+      <created>1685398984981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685398984981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V1 - tests nominaux ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1 - tests nominaux ok" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
