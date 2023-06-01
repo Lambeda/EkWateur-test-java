@@ -49,16 +49,18 @@ Colonnes :
 ## ConsommationDB
 
 Contient toutes les consommations des clients.
+
 Colonnes :
   - identifiant Ekwateur (juste les 8 chiffres après "EKW")
   - type d'énergie consommée (ELECTRICITE, GAZ)
   - quantité d'énergie consommée en kWh
-  - date de début du relevé de consommation
-  - date de fin du relevé de consommation
+  - date de début du relevé de consommation (au format dd-mm-yyyy)
+  - date de fin du relevé de consommation (au format dd-mm-yyyy)
 
 ## TarifDB
 
 Contient les tarifs à appliqués aux consommations énergétiques.
+
 Colonnes :
   - type de client (PARTICULIER, PROFESSIONEL, PROFESSIONEL_CA_SUPERIEUR)
   - type d'énergie (ELECTRICITE, GAZ)
