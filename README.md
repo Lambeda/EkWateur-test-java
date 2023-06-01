@@ -15,7 +15,7 @@ Dans l'ordre :
 ## Sortie
 
 Si l'identifiant Ekwateur est erronnée ou inextante dans "les bases de données", alors le programme renvoie un message d'erreur.
-Sinon on retourne le montant total (électricité + gaz) à facturer au client entre la date de début et la date de fin indiqué en entrée.
+Sinon on retourne le montant total (électricité + gaz) en euros à facturer au client entre la date de début et la date de fin indiquées en entrée.
 
 # Base de données
 
